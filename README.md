@@ -17,13 +17,15 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) <br/>
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) <br/>
 ![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white) <br/>
-![IntellijIdea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)<br/>
+![IntellijIdea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) <br/>
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=black)<br/>
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)<br/>
+![Typora](https://img.shields.io/badge/Typora-white?style=flat-square&logoColor=white)<br/>
 ![Windows10](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows10&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
